@@ -1,0 +1,5 @@
+day 3 
+
+Pull request 
+
+to push changes to locked branch - like to  master(pull changes to master branch)
