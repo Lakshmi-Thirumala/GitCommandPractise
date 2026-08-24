@@ -1,0 +1,44 @@
+Git hub commands -Faya sir class
+
+Github setup in Git bash
+$ git config --global user.email "klthirumala18@gmail.com"
+
+$ git config --global user.name "Lakshmi-Thirumala"
+
+
+confirming details added or not 
+
+$ git config --global --list
+
+Initialising git inside folder 
+git init 
+
+
+to know status 
+git status
+
+to add files 
+git add filename
+
+to add all files we use
+git add .
+
+to commit our changes from git (Local ) to Github(Cloud)
+git commit -m "Give Any relevant message"
+
+to commit which repository we have to give link of repository- Configuring git repo to this folder for only first time 
+git remote add origin https://github.com/Lakshmi-Thirumala/GitCommandPractise.git
+
+first time to push 
+git push -u origin master
+u meant for upstream 
+
+next time we can simply use 
+git push
+
+for clone code 
+git clone https://github.com/Lakshmi-Thirumala/GitCommandPractise.git
+
+
+
+ 
