@@ -3,3 +3,17 @@ day 3
 Pull request 
 
 to push changes to locked branch - like to  master(pull changes to master branch)
+
+local project connected to which repository 
+git remote -v 
+
+Merge vs rebase
+
+merge will create new commit -it get added as commit
+
+rebase 
+linear commit history 
+
+
+git log --oneline
+
