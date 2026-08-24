@@ -26,6 +26,14 @@ git add .
 to commit our changes from git (Local ) to Github(Cloud)
 git commit -m "Give Any relevant message"
 
-to commit which repository we have to give link of repository
+to commit which repository we have to give link of repository- Configuring git repo to this folder for only first time 
 git remote add origin https://github.com/Lakshmi-Thirumala/GitCommandPractise.git
+
+first time to push 
+git push -u origin master
+u meant for upstream 
+
+next time we can simply use 
+git push
+
  
