@@ -22,4 +22,7 @@ git add filename
 
 to add all files we use
 git add .
+
+to commit our changes from git (Local ) to Github(Cloud)
+git commit -m "Give Any relevant message"
  
