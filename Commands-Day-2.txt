@@ -19,4 +19,34 @@ git checkout -b feature/GitPractise
 to switch between branches 
 git checkout branchname
 
+to push new branch /branch changes
+git push origin -u feature/Git-Practise
 
+to delete branch 
+to swithch to another branch and delete branch--local
+git branch -d branchname
+
+git branch -D branchname
+
+git push origin --delete  branchName---cloud
+
+
+
+
+git fetch origin (All branch details into local)	
+
+
+MergeConflicts 
+
+pull code before push or else we landinto merge conflicts on same branch
+
+when we are getting changes from another branch to our branch 
+
+git merge branchname
+
+changes brfore last commit will be gone 
+
+git stash(for uncommitted code)
+
+to restore that again
+git stash pop
