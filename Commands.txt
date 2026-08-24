@@ -36,9 +36,6 @@ u meant for upstream
 next time we can simply use 
 git push
 
-for clone code 
-git clone https://github.com/Lakshmi-Thirumala/GitCommandPractise.git
-
 
 
  
