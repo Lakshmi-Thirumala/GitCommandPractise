@@ -1,2 +1,22 @@
 for clone code 
 git clone https://github.com/Lakshmi-Thirumala/GitCommandPractise.git
+
+
+even though our repo is public - no one able to push code to our repo -only if we give collabrate access then they will push code
+
+
+Taking code from github 
+git pull or git pull origin master
+
+Branching 
+
+to see all branches
+git branch 
+
+for branch creation from existing branch (if we do checkout command on main branch -it creats from main like that)
+git checkout -b feature/GitPractise
+
+to switch between branches 
+git checkout branchname
+
+
