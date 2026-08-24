@@ -25,4 +25,7 @@ git add .
 
 to commit our changes from git (Local ) to Github(Cloud)
 git commit -m "Give Any relevant message"
+
+to commit which repository we have to give link of repository
+git remote add origin https://github.com/Lakshmi-Thirumala/GitCommandPractise.git
  
