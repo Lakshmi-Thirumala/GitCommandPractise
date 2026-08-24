@@ -17,3 +17,29 @@ linear commit history
 
 git log --oneline
 
+fork the repository- copy code from one account to another account
+
+upstream project details -
+git remote -v 
+
+to add other upstream 
+git remote add (name of anything for repo)  repo link
+
+origin is default repo connect to local
+
+revert entire commit/reset commit 
+revet add new commit 
+reset - wont add new  commit 
+
+git revert HEAD      (head means current commit)
+
+more commits 
+git revet HEAD-1 like that
+
+git revert perticularcommit id 
+
+git log --oneline - for history of commits
+
+git reset --hard HEAD-1  (removes change and commit both)
+
+
