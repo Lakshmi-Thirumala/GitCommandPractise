@@ -44,7 +44,7 @@ when we are getting changes from another branch to our branch
 
 git merge branchname
 
-changes brfore last commit will be gone 
+changes before last commit will be gone 
 
 git stash(for uncommitted code)
 
